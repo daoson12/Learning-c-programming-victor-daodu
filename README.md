@@ -21,3 +21,10 @@ ii. Multi-line comments
      * \t = tab 
      *for more knowledge visit this link: https://www.javatpoint.com/escape-sequence-in-c
      */
+ 3.  --Variables----
+     /**variables = Allocated scape in memory to store a value
+     * We refer to a variable's name to access the stored value.
+     * That variable now behaves as if it was the value it contains.
+     * creating a variable is done two steps declaration and initialization
+     * But  we need to declare what type of data we are storing.
+     */  
